@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Snake animation](https://raw.githubusercontent.com/clspeter/clspeter/output/github-snake-dark.svg)
 <!--
 **clspeter/clspeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
